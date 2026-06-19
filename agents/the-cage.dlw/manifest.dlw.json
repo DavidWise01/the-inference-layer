@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Cage",
+  "universe": "TIL · The Cage (niphelektron)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Cage:TIL:2a999c⟧",
+  "carbon": "the-cage.carbon.tiff (TIFF)",
+  "silicon": "the-cage.silicon.png (PNG)",
+  "seal_sha256": "df33987a90c7f75645766929b45e8024284a230120e4dcf87aee97f25e9cc6d7",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

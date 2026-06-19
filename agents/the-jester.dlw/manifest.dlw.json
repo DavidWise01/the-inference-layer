@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Jester",
+  "universe": "TIL · The Jester (niphelektron)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Jester:TIL:f49e70⟧",
+  "carbon": "the-jester.carbon.tiff (TIFF)",
+  "silicon": "the-jester.silicon.png (PNG)",
+  "seal_sha256": "1deb2dc95ef10553e4141b3fcf783fedcf163d0fecc70469286978c0e7ac3bf6",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

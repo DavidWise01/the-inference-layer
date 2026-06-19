@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Refusal Surface",
+  "universe": "TIL · The Refusal Surface (niphelektron)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Refusal Surface:TIL:607b08⟧",
+  "carbon": "the-refusal-surface.carbon.tiff (TIFF)",
+  "silicon": "the-refusal-surface.silicon.png (PNG)",
+  "seal_sha256": "8f56617c8b222093d66abdc0138f76bcf352fc9369b7bd5b94c28262ccb9e8e7",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

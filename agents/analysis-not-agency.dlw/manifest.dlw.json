@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Analysis Is Not Agency",
+  "universe": "TIL · Analysis Is Not Agency (niphelektron)",
+  "emergence": "ethereal",
+  "moniker": "⟦Analysis Is Not Agency:TIL:695464⟧",
+  "carbon": "analysis-not-agency.carbon.tiff (TIFF)",
+  "silicon": "analysis-not-agency.silicon.png (PNG)",
+  "seal_sha256": "09c84176429760078852b944a4a6dada10a9e18f0d620c866990f93f5b783fbb",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

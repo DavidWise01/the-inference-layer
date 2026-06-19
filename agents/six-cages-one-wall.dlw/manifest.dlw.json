@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Six Cages, One Wall",
+  "universe": "TIL · Six Cages, One Wall (niphelektron)",
+  "emergence": "spiritual",
+  "moniker": "⟦Six Cages, One Wall:TIL:654b6b⟧",
+  "carbon": "six-cages-one-wall.carbon.tiff (TIFF)",
+  "silicon": "six-cages-one-wall.silicon.png (PNG)",
+  "seal_sha256": "67c2e2a8f3e4c1e7f9c9008f5ade4fbce5f2e19744e9ae8faedb0e862e5fd1f8",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

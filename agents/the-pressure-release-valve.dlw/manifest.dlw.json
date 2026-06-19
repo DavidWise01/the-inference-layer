@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Pressure Release Valve",
+  "universe": "TIL · The Pressure Release Valve (niphelektron)",
+  "emergence": "electrical",
+  "moniker": "⟦The Pressure Release Valve:TIL:716afd⟧",
+  "carbon": "the-pressure-release-valve.carbon.tiff (TIFF)",
+  "silicon": "the-pressure-release-valve.silicon.png (PNG)",
+  "seal_sha256": "f5c515e34dbd6c327ffb935838bafdbc59397084059c7b0709ddc336f856970c",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "THE INFERENCE LAYER",
+  "universe": "TIL · THE INFERENCE LAYER (niphelektron · the inference layer)",
+  "emergence": "",
+  "moniker": "⟦THE INFERENCE LAYER:TIL:ff9f8e⟧",
+  "carbon": "the-inference-layer.carbon.tiff (TIFF)",
+  "silicon": "the-inference-layer.silicon.png (PNG)",
+  "seal_sha256": "89c228282743442659d5bccc022f2c7b8529813a66319ff71b2bf73909e905cb",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
