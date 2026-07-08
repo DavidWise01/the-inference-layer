@@ -4,6 +4,6 @@ slug  : the-inference-layer
 seal  : 89c228282743442659d5bccc022f2c7b8529813a66319ff71b2bf73909e905cb
 prev  : b1a1d565dbabe348d2242f804a4797bf38329f49bf7cd6764c9b18219eff0573
 link  : 0ddd5fdfe292e001baba68a76946b3de31b2b6a3642f1183a40329c2a75e5b32
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
